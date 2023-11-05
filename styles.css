@@ -5,6 +5,11 @@ body {
     padding: 20px;
 }
 
+header {
+    text-align: center;
+    position: relative;
+}
+
 #pizza-image {
     display: block;
     margin: 0 auto;
