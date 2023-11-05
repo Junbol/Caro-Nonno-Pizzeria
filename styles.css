@@ -5,10 +5,17 @@ body {
     padding: 20px;
 }
 
-h1, h2 {
+
+h1 {
     text-align: center;
+    color: darkred;
 }
 
+
+h2 {
+    text-align: center;
+    color: darkgreen;
+}
 ul, ol {
     list-style-type: none;
     padding: 0;
